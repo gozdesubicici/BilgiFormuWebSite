@@ -1,0 +1,28 @@
+﻿body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    background-color:maroon;
+    color:antiquewhite;
+    text-align:center
+}
+
+.AnaBaslik {
+    font-size:x-large;
+}
+a:link {
+    color:cornflowerblue;
+}
+
+a:visited {
+    color:orange;
+}
+
+a:hover {
+    color:forestgreen;
+}
+#indir {
+    width:20px;
+    height:20px;
+}
+
